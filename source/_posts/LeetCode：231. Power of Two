@@ -1,7 +1,9 @@
 ---
 title: 231. Power of Two
 date: 2019-12-11 15:10:19
-tags:LeetCode刷题笔记
+tags:
+        - LeetCode刷题笔记
+        - 教程
 ---
 `(n & (n-1)) == 0`用来判断是否是2的幂，前提n>0
 ```c
